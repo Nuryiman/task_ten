@@ -1,2 +1,2 @@
-NOt_SECRET_TOKEN = "some-secret-value"
+NOT_SECRET_TOKEN = "some-secret-value"
 is_activate = True
